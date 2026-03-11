@@ -37,14 +37,14 @@
 ## 課程進度表
 
 ### 第一階段：Java OOP 核心基礎 (對應 GeeksforGeeks 教材)
-| 週次 | 教學內容 | 對應 GfG 網頁主題 | 作業與專題進度 |
-|------|---------|-----------------|---------------|
-| **W1** | **課程導論與 Java 環境建置**<br>Git 操作。Java 基本語法：資料型態、變數、運算子。 | **Java Basics**<br>**Java Operators** | 建立 GitHub 帳號、完成首次 Fork+PR。 |
-| **W2** | **流程控制與陣列**<br>If-else、Switch、迴圈 (for/while)、陣列、String 處理。 | **Java Flow Control**<br>**Java Arrays**<br>**Java String** | 作業：實作基礎演算法（如九九乘法表、陣列處理）。 |
-| **W3** | **類別與物件 (Classes & Objects)**<br>OOP 精神、定義 Class、建立 Object、屬性、方法、建構子。 | **Java OOPs Concepts**<br>(Classes, Objects, Methods, Constructors) | **專題分組、建立 Repo**。<br>作業：設計「海洋生物」類別並實例化。 |
-| **W4** | **封裝與繼承 (Encapsulation & Inheritance)** + **小考 1**<br>Access Modifiers、`extends`、`super` 關鍵字。 | **Java Encapsulation**<br>**Java Inheritance** | **個人專題題目探索**。<br>作業：實作海洋生物繼承架構。 |
-| **W5** | **多型 (Polymorphism)**<br>方法多載 (Overloading)、方法覆寫 (Overriding)、`final`。 | **Java Polymorphism** | **決定題目、繳交專題提案**。<br>作業：利用多型實作生物移動方式。 |
-| **W6** | **抽象、介面與例外處理**<br>Abstract class、Interface (`implements`)、Try-catch。 | **Java Abstraction**<br>**Java Interfaces**<br>**Exception Handling** | **教師審查提案**。<br>作業：實作可游泳/潛水的 Interface。 |
+| 週次 | 教學內容 | 對應 GfG 網頁主題與連結 | 作業與專題進度 |
+|------|---------|------------------------|---------------|
+| **W1** | **課程導論與 Java 環境建置**<br>Git 操作。Java 基本語法：資料型態、變數、運算子。 | - [Java Basics](https://www.geeksforgeeks.org/java-basics/)<br>- [Java Operators](https://www.geeksforgeeks.org/operators-in-java/) | 建立 GitHub 帳號、完成首次 Fork+PR。 |
+| **W2** | **流程控制與陣列**<br>If-else、Switch、迴圈 (for/while)、陣列、String 處理。 | - [Java Flow Control](https://www.geeksforgeeks.org/flow-control-in-java/)<br>- [Java Arrays](https://www.geeksforgeeks.org/arrays-in-java/)<br>- [Java String](https://www.geeksforgeeks.org/strings-in-java/) | 作業：實作基礎演算法（如九九乘法表、陣列處理）。 |
+| **W3** | **類別與物件 (Classes & Objects)**<br>OOP 精神、定義 Class、建立 Object、屬性、方法、建構子。 | - [Java OOPs Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)<br>- [Classes & Objects](https://www.geeksforgeeks.org/classes-objects-java/) | **專題分組、建立 Repo**。<br>作業：設計「海洋生物」類別並實例化。 |
+| **W4** | **封裝與繼承 (Encapsulation & Inheritance)** + **小考 1**<br>Access Modifiers、`extends`、`super` 關鍵字。 | - [Java Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-java/)<br>- [Java Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/) | **個人專題題目探索**。<br>作業：實作海洋生物繼承架構。 |
+| **W5** | **多型 (Polymorphism)**<br>方法多載 (Overloading)、方法覆寫 (Overriding)、`final`。 | - [Java Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-java/) | **決定題目、繳交專題提案**。<br>作業：利用多型實作生物移動方式。 |
+| **W6** | **抽象、介面與例外處理**<br>Abstract class、Interface (`implements`)、Try-catch。 | - [Java Abstraction](https://www.geeksforgeeks.org/abstraction-in-java/)<br>- [Java Interfaces](https://www.geeksforgeeks.org/interfaces-in-java/)<br>- [Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/) | **教師審查提案**。<br>作業：實作可游泳/潛水的 Interface。 |
 
 ### 第二階段：Android App 開發與 AI 導入
 | 週次 | 教學內容 | 作業與專題進度 |
